@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently a PhD candidate (2022~) @ Sun Yat-sen University, Zhuhai, China.
+- 🌱 My background is in hydrology, with a particular interest in multi-disciplinary hydrological fields, including the changes in hydrological processes in the context of a warming climate and enhanced human activities, the causes and consequences of hydrological extremes, and the associated effects on ecology and human systems.
+- 🤔 I'm also enthusiastic about unraveling the causes, processes and consequences of hydrological extremes using artificial intelligence techniques.
+- 📫 How to reach me: my personal Email: huangzq681@gmail.com (or huangzq8@mail2.sysu.edu.cn)
+   wechat ID: huangzq1681
 
 <!--
 **huangzq681/huangzq681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
